@@ -1,4 +1,11 @@
 ### Hi there 👋
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosekitau&layout=compact&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kosekitau&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kosekitau&theme=dracula&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **kosekitau/kosekitau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
